@@ -1,6 +1,6 @@
 {
-  "short_name": "yankee-blog",
-  "name": "yankee-blog",
+  "short_name": "yankee-article-parser",
+  "name": "yankee-article-parser",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",

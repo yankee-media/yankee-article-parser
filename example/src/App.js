@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ArticleParser from 'yankee-blog';
+import ArticleParser from 'yankee-article-parser';
 
 // Theme
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles';

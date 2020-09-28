@@ -1,13 +1,11 @@
-# yankee-blog
+# Yankee Article Parser
 
-> A Suite of Utilities Used in Yankee Brand Blogs
-
-[![NPM](https://img.shields.io/npm/v/yankee-blog.svg)](https://www.npmjs.com/package/yankee-blog) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+> An article parser and related constants for use in Yankee Branded React based webpages.
 
 ## Install
 
 ```bash
-npm install --save yankee-blog
+npm install --save yankee-article-parser
 ```
 
 ## Usage
@@ -15,7 +13,7 @@ npm install --save yankee-blog
 ```jsx
 import React, { Component } from 'react'
 
-import ArticleParser from 'yankee-blog'
+import ArticleParser from 'yankee-article-parser'
 
 class Example extends Component {
   render () {
