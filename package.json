@@ -1,10 +1,10 @@
 {
-  "name": "yankee-blog",
+  "name": "yankee-article-parser",
   "version": "1.1.6",
-  "description": "A Suite of Utilities Used in Yankee Brand Blogs",
+  "description": "A Suite of Utilities Used in Yankee Brand Webpages",
   "author": "Yankee Media LLC",
   "license": "MIT",
-  "repository": "yankee-media/yankee-blog",
+  "repository": "yankee-media/yankee-article-parser",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "module": "dist/index.es.js",

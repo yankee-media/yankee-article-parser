@@ -1,6 +1,6 @@
 {
-  "name": "yankee-blog-example",
-  "homepage": "https://github.com/yankee-media/yankee-blog",
+  "name": "yankee-article-parser-example",
+  "homepage": "https://github.com/yankee-media/yankee-article-parser",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -11,7 +11,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "^1.1.4",
-    "yankee-blog": "file:.."
+    "yankee-article-parser": "file:.."
   },
   "scripts": {
     "start": "react-scripts start",
